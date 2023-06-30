@@ -1,11 +1,8 @@
-.cabecalho {background-color:gray; font-size:24px; width:600px; 
-           padding:10px; text-align:center; margin:2px}
+ .Cabecalho { background-color:green; width:auto; height:150px;
+        text-align:center; color:white; font-size:100px;}
 
-.scorpo {margin: 2px; width:600px; 
-        padding:10px;}
-
-.corpo {display:flex; width:600px; padding:10px; background-color:red; 
-       font-family:Arial, Helvetica, sans-serif;}
-
-.rodape {width:600px; padding:10px; color:blue;
-        text-transform:uppercase;}
+ .Conteudo { background-color:white; width:auto; height:700px;
+    text-align:center; font-size:25px;}
+  
+ .Rodape { background-color:green; width:auto; height:150px;
+    text-align:center; color:white; font-size:20px;}
